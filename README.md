@@ -20,6 +20,7 @@
 - [Power BI DAX Samples](https://github.com/kszelukowski/powerbi-dax-samples) - Logistics KPIs
 - [Python SAP Automation](https://github.com/kszelukowski/python-sap-automation) - Web automation framework
 - [Power Query Functions](https://github.com/kszelukowski/power-query-functions) - Custom M functions
+- [FedEx Surcharge Scraper](https://github.com/kszelukowski/fedex-surcharge-scraper) - Web scraper for fuel surcharges
 
 ## 📫 Contact
 
